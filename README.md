@@ -4,4 +4,4 @@
 
 ### Email: shimuliakter877@gmail.com
 
-[ Live url](https://portfolio-website-assignment-3.netlify.app/)
+[ Live url](https://assignment-3-portfolio-website.netlify.app/)
